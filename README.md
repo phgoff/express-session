@@ -8,3 +8,16 @@ npm config get prefix
 ```
 set PATH=%PATH%;C:\Users\username\AppData\Roaming\npm;
 ```
+* React-redux 20/3/18
+```
+set PATH=%PATH%;C:\Users\5835512090\AppData\Roaming\npm
+//install react
+npm install -g create-react-app
+//create
+create-react-app myname
+
+//
+npm install --save axios
+npm install --save cors
+```
+
